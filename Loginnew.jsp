@@ -17,7 +17,7 @@
         <s:form action="login.baconsoi" method="POST">
             <s:textfield key="UserName" name="user"/></br>
             <s:password key="Password" name="pass"/></br>
-            <s:submit values="Login" method="execute"/>
+            <s:submit values="Login" method="executesdsafas"/>
         </s:form>
         
     </body>
